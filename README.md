@@ -18,7 +18,7 @@ I enjoy collaborating with cross-functional teams and breaking down complex prob
 
 ### 🔧 **Languages & Tools**
 
-- **Languages**: PHP, JavaScript, SQL, HTML, CSS
+- **Languages**: PHP, JavaScript,
 - **Frameworks**: Laravel, Node.js, Express.js
 - **Databases**: MySQL
 - **Version Control**: Git, GitHub
