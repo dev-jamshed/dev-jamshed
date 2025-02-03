@@ -1,35 +1,24 @@
-👋 **Hello! I'm Jamshed**  
+# 💫 About Me:
+🌍 Currently working on<br>Building scalable backend solutions with Laravel & Node.js.<br><br>🤝 Looking to collaborate on<br>Open-source projects, API development, and backend optimizations.<br><br>🛠️ Looking for help with<br>Exploring advanced DevOps practices and cloud deployments.<br><br>🌱 Currently learning<br>Building scalable applications using Express with TypeScript.<br><br>💬 Ask me about<br>Laravel, Node.js, REST APIs, and database design.<br><br>⚡ Fun fact<br>I debug my code better with coffee! ☕✨
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=499&lines=Backend+Developer+%7C+Laravel+Enthusiast;Crafting+Scalable+%26+Secure+Web+Applications;Exploring+Node.js+%26+API+Integrations;Building+Solutions+for+Real-World+Problems;Passionate+About+Clean+Code+%26+Best+Practices;Continuous+Learner+%26+Tech+Explorer&font-weight=700)](https://git.io/typing-svg)
 
-🔹 **Backend Developer | Laravel & Node.js Enthusiast**  
-I specialize in creating scalable, efficient, and secure backend solutions, using the power of **Laravel** and **Node.js** to deliver robust web applications that are ready for real-world challenges.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jamshed-ali-b8a1802a8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jamshedlinkedin@gmail.com) 
 
-🔹 **Passionate About Clean Code & Best Practices**  
-Writing clean, maintainable code and following industry best practices is my passion. I believe that quality code is not just about functionality but also readability, scalability, and efficiency.
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dev-jamshed&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dev-jamshed&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jamshed&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🔹 **Always Learning**  
-Tech is always evolving, and so am I. From **API integrations** to **cloud deployments**, I'm constantly expanding my skill set to stay at the forefront of backend technology.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dev-jamshed&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-🔹 **Team Player & Problem Solver**  
-I enjoy collaborating with cross-functional teams and breaking down complex problems into simple, effective solutions. Whether it's architecting a new system or optimizing an existing one, I'm all about finding the right approach for every challenge.
-
----
-
-### 🔧 **Languages & Tools**
-
-- **Languages**: PHP, JavaScript,
-- **Frameworks**: Laravel, Node.js, Express.js
-- **Databases**: MySQL
-- **Version Control**: Git, GitHub
-- **Other Tools**: Docker, Composer, REST APIs, Postman, **Linux**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=dev-jamshed&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📫 **Let's Connect!**  
-- **Email**: jamshedlinkedin@gmail.com
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/jamshed-ali-b8a1802a8/)  
-
----
-
-⚡ **Fun Fact**: I think in code and drink coffee like it's water ☕
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
