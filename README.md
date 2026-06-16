@@ -1,6 +1,6 @@
 <!--  Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+Jamshed+👋;Full+Stack+Developer+%7C+Laravel+%2B+MERN;AI+Automation+%7C+DevOps+%7C+Cloud;Building+Intelligent+Digital+Experiences!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+Jamshed+ ;Full+Stack+Developer+%7C+Laravel+%2B+MERN;AI+Automation+%7C+DevOps+%7C+Cloud;Building+Intelligent+Digital+Experiences!+" alt="Typing SVG" />
 </p>
 
 ---
@@ -33,7 +33,7 @@ Currently working on **SaaS dashboards**, **E-commerce CMS**, and **AI-powered b
 > “The future of the web is intelligence, automation, and scalable systems.”  
 
  **Fun Fact**  
-I don’t just debug code — I train AI to help debug it 😎  
+I don’t just debug code — I train AI to help debug it   
 
 ---
 
@@ -118,7 +118,7 @@ I don’t just debug code — I train AI to help debug it 😎
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=600&size=20&duration=4000&pause=1000&color=00E8FF&center=true&vCenter=true&width=600&lines=✨+Thanks+for+Visiting+My+Profile!;🤖+Let's+Build+AI+Powered+Systems+Together!+" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=600&size=20&duration=4000&pause=1000&color=00E8FF&center=true&vCenter=true&width=600&lines=+Thanks+for+Visiting+My+Profile!;+Let's+Build+AI+Powered+Systems+Together!+" />
 </p>
 
 <p align="center">
@@ -127,4 +127,4 @@ I don’t just debug code — I train AI to help debug it 😎
 
 ---
 
-⭐ *"Think Intelligent. Build Automated. Deliver Impact."*
+ *"Think Intelligent. Build Automated. Deliver Impact."*
