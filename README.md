@@ -11,7 +11,7 @@
 
 I combine the **robust backend power of Laravel** with the **modern frontend ecosystem of React & Next.js** to deliver **high-performance, cloud-ready applications**.  
 
-From building **API-driven systems** to designing **AI automation workflows**, my goal is to create software that is not just functional — but **smart, efficient, and future-proof**.  
+From building **API-driven systems** to designing **AI automation workflows**, my goal is to create software that is not just functional but **smart, efficient, and future-proof**.  
 
  **What I’m Building**  
 Currently working on **SaaS dashboards**, **E-commerce CMS**, and **AI-powered business tools** using:  
