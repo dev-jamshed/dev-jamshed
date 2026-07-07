@@ -33,7 +33,7 @@ Currently working on **SaaS dashboards**, **E-commerce CMS**, and **AI-powered b
 > “The future of the web is intelligence, automation, and scalable systems.”  
 
  **Fun Fact**  
-I don’t just debug code — I train AI to help debug it   
+I don’t just debug code . I train AI to help debug it   
 
 ---
 
