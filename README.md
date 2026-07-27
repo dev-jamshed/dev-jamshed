@@ -39,7 +39,7 @@ I don’t just debug code . I train AI to help debug it
 
 ##  Connect With Me:
 <p align="left">
-  <a href="https://github.com/jamshed-ali-01" target="_blank">
+  <a href="https://github.com/dev-jamshed" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -94,12 +94,12 @@ I don’t just debug code . I train AI to help debug it
 
 #  GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamshed-ali-01&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" height="165px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamshed-ali-01&theme=tokyonight&hide_border=true" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-jamshed&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" height="165px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-jamshed&theme=tokyonight&hide_border=true" height="165px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamshed-ali-01&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jamshed&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -113,7 +113,7 @@ I don’t just debug code . I train AI to help debug it
 ---
 
 #  Achievements & Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jamshed-ali-01&theme=tokyo-night&hide_border=true&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-jamshed&theme=tokyo-night&hide_border=true&area=true)
 
 ---
 
