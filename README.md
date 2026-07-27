@@ -122,7 +122,7 @@ I don’t just debug code . I train AI to help debug it
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jamshed-ali-01&label=Profile%20Views&color=00E8FF&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=dev-jamshed&label=Profile%20Views&color=00E8FF&style=flat-square" />
 </p>
 
 ---
